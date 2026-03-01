@@ -3,6 +3,8 @@
 Brighton and Hove, United Kingdom<br>
 **Email:** nigel.l.jones@gmail.com | **LinkedIn:** [linkedin.com/in/nigelljones](https://www.linkedin.com/in/nigelljones) | **GitHub:** [github.com/planetf1](https://github.com/planetf1)
 
+[![Download PDF CV](https://img.shields.io/badge/Download-PDF_CV-blue.svg?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/planetf1/cv/raw/main/README.pdf)
+
 ---
 
 ## Executive Summary
