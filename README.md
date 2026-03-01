@@ -1,3 +1,9 @@
+---
+title: Nigel Jones - Technical CV
+author: Nigel Jones
+subject: AI Software Engineering, LLMs, and Agentic Frameworks
+---
+
 # Nigel Jones
 **Staff/Principal AI Software Engineer | Generative Programming & Reliable AI**<br>
 Brighton and Hove, United Kingdom<br>
