@@ -27,14 +27,18 @@ jobs:
         run: npm install -g md-to-pdf
 
       - name: Generate PDF from Markdown
-        # This creates README.pdf in the workspace
-        run: md-to-pdf README.md 
+        # The --no-sandbox flag is required for Chromium to run in a headless Ubuntu runner
+        run: md-to-pdf README.md --launch-options '{ "args": ["--no-sandbox", "--disable-setuid-sandbox"] }'
 
       - name: Commit and Push PDF
         run: |
           git config --local user.name "github-actions[bot]"
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git add README.pdf
+          
+          # Rename output to match the download link in your README
+          if [ -f "README.pdf" ]; then
+            git add README.pdf
+          fi
           
           # Check if the PDF actually changed to avoid failing on empty commits
           if git diff --staged --quiet; then
