@@ -1,7 +1,7 @@
 # Nigel Jones
-**Staff/Principal AI Software Engineer | Generative Programming & Reliable AI**
-Brighton and Hove, United Kingdom
-**Email:** nigel.l.jones@gmail.com | **LinkedIn:** linkedin.com/in/nigelljones | **GitHub:** github.com/planetf1
+**Staff/Principal AI Software Engineer | Generative Programming & Reliable AI**<br>
+Brighton and Hove, United Kingdom<br>
+**Email:** nigel.l.jones@gmail.com | **LinkedIn:** [linkedin.com/in/nigelljones](https://www.linkedin.com/in/nigelljones) | **GitHub:** [github.com/planetf1](https://github.com/planetf1)
 
 ---
 
