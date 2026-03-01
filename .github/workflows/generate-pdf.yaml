@@ -6,6 +6,8 @@ on:
       - main
     paths:
       - 'README.md'
+      - '.github/workflows/generate-pdf.yaml'
+  workflow_dispatch: # Adds a manual "Run" button in the Actions tab
 
 jobs:
   generate_pdf:
